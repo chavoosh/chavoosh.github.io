@@ -11,7 +11,7 @@ and my field of research mainly focuses on <a href="https://named-data.net">Name
 future Internet. Currently, I am working on designing and implementing
 a new Content Distribution Network (CDN) over information-centric
 communication model.</p>
-</br>
+
 <p>We recently deployed the first adaptive video streaming service over NDN
 for daily Internet users. You can enjoy watching videos over NDN on the
 <a href='https://ivisa.named-data.net'>project's website</a>.</p>
