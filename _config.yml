@@ -1,6 +1,6 @@
 # main text of home
 name: Chavoosh Ghasemi 
-bio: [Nothing makes my day as a good tone does!]
+bio: Let's jam together!
 # twitter summary info
 description: Chavoosh Ghasemi's personal website
 
@@ -69,7 +69,7 @@ email: chghasemi@cs.arizona.edu
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5

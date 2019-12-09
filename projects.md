@@ -14,7 +14,7 @@ By integrating several building blocks developed by the NDN project and the open
 community, we implement a system in which users can watch videos through adaptive bit-rate
 video streaming service over NDN testbed without installing any software. Initial evaluation
 shows satisfactory performance and user experience, but also reveals a number of issues to be
-solved. This service is publicly available for Internet users. Visit this [website](https://ivisa.named-data.net) to watch videos completely over NDN!</p>
+solved. This service is publicly available for Internet users. Visit <a href='https://ivisa.named-data.net'>project's website</a> to watch videos completely over NDN!</p>
 
 
 <h2>iCDN</h2>
@@ -53,7 +53,7 @@ lookups, and removals in comparison to existing schemes, for various datasets wi
 
 
 <h2>MUCA</h2>
-</p>While the Internet has far exceeded expectations, it has also stretched initial assumptions, often creating
+<p>While the Internet has far exceeded expectations, it has also stretched initial assumptions, often creating
 tussles that challenge its underlying communication model. Users and applications operate in terms of content,
 making it increasingly limiting and difficult to conform to IP’s requirement to communicate by discovering and
 specifying a location. To carry the Internet into the future, a conceptually simple yet transformational
