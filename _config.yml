@@ -2,7 +2,7 @@
 name: Chavoosh Ghasemi 
 bio: [ BUILD YOUR FUTURE NOW ] 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Chavoosh Ghasemi's personal website
 
 # if it's an external image, update below for true
 # better with square images
@@ -33,13 +33,13 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-linkedin: https://www.linkedin.com/in/chavoosh
-github: https://github.com/chavoosh
-facebook: https://www.facebook.com/chavoosh.ghasemi
-youtube: https://www.youtube.com/channel/UCJLCpmkC-LbTcMLvxl1-Tag?view_as=subscriber 
-spotify: https://tinyurl.com/chavoosh-spotify
+linkedin: chavoosh
+github: chavoosh
+facebook: chavoosh.ghasemi
+spotify: 4YyzWRrQcKTunAXtQRaO7h
 email: chghasemi@cs.arizona.edu
-#instagram: myinstagram
+# instagram: myinstagram
+# youtube: myyoutube
 # twitter: mytwitter
 # google: mygoogle
 # pinterest: mypinterest
