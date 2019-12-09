@@ -69,7 +69,4 @@ automatic caching to optimize bandwidth. The project studies the technical chall
 to validate NDN as a future Internet architecture: routing scalability, fast forwarding, trust models, network
 security, content protection and privacy, and fundamental communication theory. The project uses end-to-end
 testbed deployments, simulation, and theoretical analysis to evaluate the proposed architecture, and is
-developing specifications and prototype implementations of NDN protocols and applications. NDN Technical
-Report NDN-0001 “Named Data Networking (NDN) Project” is a slightly modified version of the NDN project
-proposal. The NDN project was funded by NSF in September 2010 as one of the four projects under NSF’s
-Future Internet Architecture Program.</p>
+developing specifications and prototype implementations of NDN protocols and applications.</p>
