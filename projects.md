@@ -35,6 +35,7 @@ video streaming service over NDN testbed without installing any software. Initia
 shows satisfactory performance and user experience, but also reveals a number of issues to be
 solved. This service is publicly available for Internet users. Visit <a href='https://ivisa.named-data.net'>project's website</a> to watch videos completely over NDN!</p>
 
+<hr>
 
 <h1>OLD PROJECTS</h1>
 
