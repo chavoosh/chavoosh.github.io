@@ -3,21 +3,9 @@ layout: page
 title: Projects
 ---
 
-<h2>iViSA</h2>
-<p>Research in Information-Centric Networking (ICN) and Named Data Networking (NDN)
-has produced many protocol designs and software prototypes, but they need to be
-validated and evaluated by real usage on the Internet, which is also critical to
-the realization of the ICN/NDN vision in the long run. This paper reports our
-preliminary work on deploying a video streaming service on NDN testbed.
+<h1>CURRENT PROJECTS</h1>
 
-By integrating several building blocks developed by the NDN project and the open-source
-community, we implement a system in which users can watch videos through adaptive bit-rate
-video streaming service over NDN testbed without installing any software. Initial evaluation
-shows satisfactory performance and user experience, but also reveals a number of issues to be
-solved. This service is publicly available for Internet users. Visit <a href='https://ivisa.named-data.net'>project's website</a> to watch videos completely over NDN!</p>
-
-
-<h2>iCDN</h2>
+<h2>iCDN: A Content Distribution Network over ICN</h2>
 <p>Nowadays, huge changes in users’ demands and expectations question the Internet and its role,
 cause main purposes and features of the Internet change. Among different features, delivering
 requested data to users in a fast and safe way seems vital. Not surprisingly, a lot of technologies
@@ -34,7 +22,33 @@ and limitations of the current adopted design of CDNs. The benefits of iCDN are 
 video streaming as the dominant application of today's network and showing how iCDN can help improve QoW
 of video streaming services.</p>
 
-<h2>NameTrie</h2>
+<h2>iViSA: An Adaptive Video Streaming Service over ICN</h2>
+<p>Research in Information-Centric Networking (ICN) and Named Data Networking (NDN)
+has produced many protocol designs and software prototypes, but they need to be
+validated and evaluated by real usage on the Internet, which is also critical to
+the realization of the ICN/NDN vision in the long run. This paper reports our
+preliminary work on deploying a video streaming service on NDN testbed.
+
+By integrating several building blocks developed by the NDN project and the open-source
+community, we implement a system in which users can watch videos through adaptive bit-rate
+video streaming service over NDN testbed without installing any software. Initial evaluation
+shows satisfactory performance and user experience, but also reveals a number of issues to be
+solved. This service is publicly available for Internet users. Visit <a href='https://ivisa.named-data.net'>project's website</a> to watch videos completely over NDN!</p>
+
+
+<h1>SELECT REPOSITORIES</h1>
+<ul>
+  <li>Video Streaming</li>
+  <ul>
+	  <li><a href="https://github.com/chavoosh/ndn-mongo-fileserver">NDN fileserver based on MongoDB</a></li>
+	  <li><a href="https://github.com/chavoosh/ndn-video-frontend">Video streaming frontend resources</a></li>
+  </ul>
+	<li><a href="https://github.com/chavoosh/TrieGranularity">Implementation of different Trie granularities</a></li>
+</ul>
+
+<h1>OLD PROJECTS</h1>
+
+<h2>NameTrie: An Efficient Data Structure for Name-based Packet Forwarders</h2>
 <p>Name lookup is an essential function, but a performance bottleneck in both today and future network
 architectures. Variable-length and unbounded names rather than fixed length addresses, as well as much
 larger and more dynamic forwarding tables, call for a careful re-engineering of lookup structures for fast,
@@ -51,8 +65,7 @@ name datasets, our implementation of NameTrie in software achieves significant s
 lookups, and removals in comparison to existing schemes, for various datasets with a small memory footprint.
 </p>
 
-
-<h2>MUCA</h2>
+<h2>MUCA: A New Routing Protocol For Large-scale Caching Networks</h2>
 <p>While the Internet has far exceeded expectations, it has also stretched initial assumptions, often creating
 tussles that challenge its underlying communication model. Users and applications operate in terms of content,
 making it increasingly limiting and difficult to conform to IP’s requirement to communicate by discovering and
