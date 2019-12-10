@@ -36,16 +36,6 @@ shows satisfactory performance and user experience, but also reveals a number of
 solved. This service is publicly available for Internet users. Visit <a href='https://ivisa.named-data.net'>project's website</a> to watch videos completely over NDN!</p>
 
 
-<h1>SELECT REPOSITORIES</h1>
-<ul>
-  <li>Video Streaming</li>
-  <ul>
-	  <li><a href="https://github.com/chavoosh/ndn-mongo-fileserver">NDN fileserver based on MongoDB</a></li>
-	  <li><a href="https://github.com/chavoosh/ndn-video-frontend">Video streaming frontend resources</a></li>
-  </ul>
-	<li><a href="https://github.com/chavoosh/TrieGranularity">Implementation of different Trie granularities</a></li>
-</ul>
-
 <h1>OLD PROJECTS</h1>
 
 <h2>NameTrie: An Efficient Data Structure for Name-based Packet Forwarders</h2>
