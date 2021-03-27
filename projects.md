@@ -3,8 +3,7 @@ layout: page
 title: Projects
 ---
 
-<h1>CURRENT PROJECTS</h1>
-
+<h1>OLD PROJECTS</h1>
 <h2>iCDN: A Content Distribution Network over ICN</h2>
 <p>Nowadays, huge changes in users’ demands and expectations question the Internet and its role,
 cause main purposes and features of the Internet change. Among different features, delivering
@@ -34,10 +33,6 @@ community, we implement a system in which users can watch videos through adaptiv
 video streaming service over NDN testbed without installing any software. Initial evaluation
 shows satisfactory performance and user experience, but also reveals a number of issues to be
 solved. This service is publicly available for Internet users. Visit <a href='https://ivisa.named-data.net'>project's website</a> to watch videos completely over NDN!</p>
-
-<hr>
-
-<h1>OLD PROJECTS</h1>
 
 <h2>NameTrie: An Efficient Data Structure for Name-based Packet Forwarders</h2>
 <p>Name lookup is an essential function, but a performance bottleneck in both today and future network

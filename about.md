@@ -4,14 +4,8 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a 4th year Ph.D. student at the University of Arizona. I am
-working as a graduate research assistant with <a href="https://www2.cs.arizona.edu/~bzhang">Prof. Beichuan Zhang</a>
-and my field of research mainly focuses on <a href="https://named-data.net">Named-Data Networking</a>
-(NDN) project which is one of the promising architectures of the
-future Internet. Currently, I am working on designing and implementing
-a new Content Distribution Network (CDN) over information-centric
-communication model.</p>
-
-<p>We recently deployed the first adaptive video streaming service over NDN
-for daily Internet users. You can enjoy watching videos over NDN on the
-<a href='https://ivisa.named-data.net'>project's website</a>.</p>
+<p>I am a software engineer at Google where I work with GCP team. Before joining Google, I did my Ph.D. in computer science
+at the University of Arizona under the supervision of <a href="https://www2.cs.arizona.edu/~bzhang">Prof. Beichuan Zhang</a>.
+My research interests mainly include wide-area networks, routing and forwading protocols,
+and future internet architecture (e.g., <a href="https://named-data.net">Named-Data Networking</a>).
+You can see the list of my Ph.D. projects <a class="link" href="{{ site.url }}/projects">here</a>.</p>
